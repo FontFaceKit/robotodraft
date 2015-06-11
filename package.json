@@ -1,0 +1,9 @@
+{
+  "name": "robotodraft",
+  "version": "1.0.0",
+  "description": "Sass and font files for RobotoDraft",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsnebula/robotodraft.git"
+  }
+}
